@@ -3337,9 +3337,9 @@ input, select, textarea {
 div.noticia {
   width: 50%;
   margin: 20px auto;
-  background-color: #449;
+  /*background-color: #449;*/
   color: #fff;
-  padding: 15px;
+  /*padding: 15px;*/
 }
 
 div.noticia img.izquierda {
