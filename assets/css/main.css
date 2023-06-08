@@ -2370,6 +2370,9 @@ input, select, textarea {
 
 			}
 
+.image.second img {
+				width: 50%;
+
 /* Table */
 
 	.table-wrapper {
